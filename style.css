@@ -3,3 +3,25 @@
     font-family: Arial;
     border: border-box;
 }
+.nav-bar{
+    background-color: #0f1111;
+    color: white;
+    height: 60px;
+}
+.nav-logo{
+    height: 50px;
+    width: 100px;
+}
+.logo{
+    background-image: url("amazon_logo.png");
+    height:50px;
+    width:100%;
+    background-size: cover;
+}
+.border{
+    border: 1-5px solid transparent;
+}
+.border:hover{
+    border : 1.5px solid white;
+    
+}
